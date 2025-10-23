@@ -8,7 +8,7 @@ function login() {
 
     if(username=validUser && password=validPass) {
         message.style.color="green";
-        message.textContent="Login berhasil!";
+        message.textContent="Login berhasil PATBENRAFDIM!";
     } else {
         message.style.color="red";
         message.textContent="Username atau password salah.";
